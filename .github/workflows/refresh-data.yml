@@ -1,0 +1,40 @@
+name: Refresh asset data
+
+# Pulls fresh monthly prices from Yahoo Finance every Monday at 06:00 UTC
+# (02:00 ET) and commits the refreshed data files. Also runnable on demand
+# from the Actions tab via "Run workflow".
+on:
+  schedule:
+    - cron: '0 6 * * 1'
+  workflow_dispatch:
+
+# Allow the workflow to push commits back to the repo.
+permissions:
+  contents: write
+
+jobs:
+  refresh:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Check out repo
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+
+      - name: Run update script
+        run: python3 scripts/update-asset-data.py
+
+      - name: Commit and push if data changed
+        run: |
+          if [[ -z "$(git status --porcelain docs/asset-data.json docs/asset-data.js)" ]]; then
+            echo "No data changes — skipping commit."
+            exit 0
+          fi
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add docs/asset-data.json docs/asset-data.js
+          git commit -m "chore: weekly asset data refresh ($(date -u +%Y-%m-%d))"
+          git push
