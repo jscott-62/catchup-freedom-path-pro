@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-08-03",
+  "lastUpdated": "2026-08-10",
   "assets": {
     "BTC": {
       "name": "Bitcoin",
@@ -486,11 +486,11 @@
         },
         {
           "date": "2026-08-01",
-          "close": 62763.32
+          "close": 64904.69
         },
         {
-          "date": "2026-08-03",
-          "close": 62538.82
+          "date": "2026-08-10",
+          "close": 65208.6
         }
       ]
     },
@@ -919,11 +919,11 @@
         },
         {
           "date": "2026-08-01",
-          "close": 1843.42
+          "close": 1915.53
         },
         {
-          "date": "2026-08-03",
-          "close": 1839.5
+          "date": "2026-08-10",
+          "close": 1925.02
         }
       ]
     },
@@ -1236,11 +1236,11 @@
         },
         {
           "date": "2026-08-01",
-          "close": 71.87
+          "close": 75.97
         },
         {
-          "date": "2026-08-03",
-          "close": 72.35
+          "date": "2026-08-10",
+          "close": 76.79
         }
       ]
     },
@@ -1249,12 +1249,8 @@
       "ticker": "GLD",
       "category": "Commodity",
       "color": "#eab308",
-      "inceptionDate": "2016-08-01",
+      "inceptionDate": "2016-09-01",
       "monthlyPrices": [
-        {
-          "date": "2016-08-01",
-          "close": 124.78
-        },
         {
           "date": "2016-09-01",
           "close": 125.64
@@ -1732,8 +1728,12 @@
           "close": 371.54
         },
         {
-          "date": "2026-07-31",
-          "close": 371.54
+          "date": "2026-08-01",
+          "close": 398.47
+        },
+        {
+          "date": "2026-08-07",
+          "close": 398.47
         }
       ]
     },
@@ -1742,12 +1742,8 @@
       "ticker": "SLV",
       "category": "Commodity",
       "color": "#cbd5e1",
-      "inceptionDate": "2016-08-01",
+      "inceptionDate": "2016-09-01",
       "monthlyPrices": [
-        {
-          "date": "2016-08-01",
-          "close": 17.72
-        },
         {
           "date": "2016-09-01",
           "close": 18.2
@@ -2225,8 +2221,12 @@
           "close": 52.36
         },
         {
-          "date": "2026-07-31",
-          "close": 52.36
+          "date": "2026-08-01",
+          "close": 57.5
+        },
+        {
+          "date": "2026-08-07",
+          "close": 57.5
         }
       ]
     },
@@ -2235,12 +2235,8 @@
       "ticker": "CPER",
       "category": "Commodity",
       "color": "#b45309",
-      "inceptionDate": "2016-08-01",
+      "inceptionDate": "2016-09-01",
       "monthlyPrices": [
-        {
-          "date": "2016-08-01",
-          "close": 13.7
-        },
         {
           "date": "2016-09-01",
           "close": 14.5
@@ -2718,8 +2714,12 @@
           "close": 39.56
         },
         {
-          "date": "2026-07-31",
-          "close": 39.56
+          "date": "2026-08-01",
+          "close": 39.9
+        },
+        {
+          "date": "2026-08-07",
+          "close": 39.9
         }
       ]
     },
@@ -2728,12 +2728,8 @@
       "ticker": "SPY",
       "category": "Index Fund",
       "color": "#3b82f6",
-      "inceptionDate": "2016-08-01",
+      "inceptionDate": "2016-09-01",
       "monthlyPrices": [
-        {
-          "date": "2016-08-01",
-          "close": 217.38
-        },
         {
           "date": "2016-09-01",
           "close": 216.3
@@ -3211,8 +3207,12 @@
           "close": 747.03
         },
         {
-          "date": "2026-07-31",
-          "close": 747.03
+          "date": "2026-08-01",
+          "close": 773.26
+        },
+        {
+          "date": "2026-08-07",
+          "close": 773.26
         }
       ]
     },
@@ -3221,12 +3221,8 @@
       "ticker": "QQQ",
       "category": "Tech Index",
       "color": "#a855f7",
-      "inceptionDate": "2016-08-01",
+      "inceptionDate": "2016-09-01",
       "monthlyPrices": [
-        {
-          "date": "2016-08-01",
-          "close": 116.44
-        },
         {
           "date": "2016-09-01",
           "close": 118.72
@@ -3704,8 +3700,12 @@
           "close": 687.99
         },
         {
-          "date": "2026-07-31",
-          "close": 687.99
+          "date": "2026-08-01",
+          "close": 723.03
+        },
+        {
+          "date": "2026-08-07",
+          "close": 723.03
         }
       ]
     },
@@ -3714,12 +3714,8 @@
       "ticker": "ARKK",
       "category": "Disruptive Tech ETF",
       "color": "#22c55e",
-      "inceptionDate": "2016-08-01",
+      "inceptionDate": "2016-09-01",
       "monthlyPrices": [
-        {
-          "date": "2016-08-01",
-          "close": 20.61
-        },
         {
           "date": "2016-09-01",
           "close": 22.18
@@ -4197,8 +4193,12 @@
           "close": 71.24
         },
         {
-          "date": "2026-07-31",
-          "close": 71.24
+          "date": "2026-08-01",
+          "close": 79.43
+        },
+        {
+          "date": "2026-08-07",
+          "close": 79.43
         }
       ]
     },
@@ -4207,12 +4207,8 @@
       "ticker": "TSLA",
       "category": "Individual Stock",
       "color": "#ef4444",
-      "inceptionDate": "2016-08-01",
+      "inceptionDate": "2016-09-01",
       "monthlyPrices": [
-        {
-          "date": "2016-08-01",
-          "close": 14.13
-        },
         {
           "date": "2016-09-01",
           "close": 13.6
@@ -4690,8 +4686,12 @@
           "close": 311.21
         },
         {
-          "date": "2026-07-31",
-          "close": 311.21
+          "date": "2026-08-01",
+          "close": 328.58
+        },
+        {
+          "date": "2026-08-07",
+          "close": 328.58
         }
       ]
     },
@@ -4700,12 +4700,8 @@
       "ticker": "NVDA",
       "category": "Individual Stock",
       "color": "#06b6d4",
-      "inceptionDate": "2016-08-01",
+      "inceptionDate": "2016-09-01",
       "monthlyPrices": [
-        {
-          "date": "2016-08-01",
-          "close": 1.53
-        },
         {
           "date": "2016-09-01",
           "close": 1.71
@@ -5183,8 +5179,12 @@
           "close": 200.75
         },
         {
-          "date": "2026-07-31",
-          "close": 200.75
+          "date": "2026-08-01",
+          "close": 223.96
+        },
+        {
+          "date": "2026-08-07",
+          "close": 223.96
         }
       ]
     },
@@ -5193,12 +5193,8 @@
       "ticker": "MSTR",
       "category": "Bitcoin Treasury",
       "color": "#f97316",
-      "inceptionDate": "2016-08-01",
+      "inceptionDate": "2016-09-01",
       "monthlyPrices": [
-        {
-          "date": "2016-08-01",
-          "close": 16.68
-        },
         {
           "date": "2016-09-01",
           "close": 16.74
@@ -5676,8 +5672,12 @@
           "close": 93.28
         },
         {
-          "date": "2026-07-31",
-          "close": 93.28
+          "date": "2026-08-01",
+          "close": 100.01
+        },
+        {
+          "date": "2026-08-07",
+          "close": 100.01
         }
       ]
     },
@@ -5809,8 +5809,12 @@
           "close": 35.64
         },
         {
-          "date": "2026-07-31",
-          "close": 35.64
+          "date": "2026-08-01",
+          "close": 36.8
+        },
+        {
+          "date": "2026-08-07",
+          "close": 36.8
         }
       ]
     },
@@ -5819,12 +5823,8 @@
       "ticker": "SMH",
       "category": "Tech Index",
       "color": "#84cc16",
-      "inceptionDate": "2016-08-01",
+      "inceptionDate": "2016-09-01",
       "monthlyPrices": [
-        {
-          "date": "2016-08-01",
-          "close": 33.1
-        },
         {
           "date": "2016-09-01",
           "close": 34.74
@@ -6302,8 +6302,12 @@
           "close": 540.53
         },
         {
-          "date": "2026-07-31",
-          "close": 540.53
+          "date": "2026-08-01",
+          "close": 582.7
+        },
+        {
+          "date": "2026-08-07",
+          "close": 582.7
         }
       ]
     },
@@ -6312,12 +6316,8 @@
       "ticker": "VGT",
       "category": "Tech Index",
       "color": "#0ea5e9",
-      "inceptionDate": "2016-08-01",
+      "inceptionDate": "2016-09-01",
       "monthlyPrices": [
-        {
-          "date": "2016-08-01",
-          "close": 14.74
-        },
         {
           "date": "2016-09-01",
           "close": 15.05
@@ -6795,8 +6795,12 @@
           "close": 113.15
         },
         {
-          "date": "2026-07-31",
-          "close": 113.15
+          "date": "2026-08-01",
+          "close": 121.45
+        },
+        {
+          "date": "2026-08-07",
+          "close": 121.45
         }
       ]
     },
@@ -6805,12 +6809,8 @@
       "ticker": "XLK",
       "category": "Tech Index",
       "color": "#14b8a6",
-      "inceptionDate": "2016-08-01",
+      "inceptionDate": "2016-09-01",
       "monthlyPrices": [
-        {
-          "date": "2016-08-01",
-          "close": 23.5
-        },
         {
           "date": "2016-09-01",
           "close": 23.89
@@ -7288,8 +7288,12 @@
           "close": 175.35
         },
         {
-          "date": "2026-07-31",
-          "close": 175.35
+          "date": "2026-08-01",
+          "close": 187.97
+        },
+        {
+          "date": "2026-08-07",
+          "close": 187.97
         }
       ]
     },
@@ -7298,12 +7302,8 @@
       "ticker": "AAPL",
       "category": "Individual Stock",
       "color": "#94a3b8",
-      "inceptionDate": "2016-08-01",
+      "inceptionDate": "2016-09-01",
       "monthlyPrices": [
-        {
-          "date": "2016-08-01",
-          "close": 26.52
-        },
         {
           "date": "2016-09-01",
           "close": 28.26
@@ -7781,8 +7781,12 @@
           "close": 308.91
         },
         {
-          "date": "2026-07-31",
-          "close": 308.91
+          "date": "2026-08-01",
+          "close": 313.33
+        },
+        {
+          "date": "2026-08-07",
+          "close": 313.33
         }
       ]
     },
@@ -7791,12 +7795,8 @@
       "ticker": "MSFT",
       "category": "Individual Stock",
       "color": "#0d9488",
-      "inceptionDate": "2016-08-01",
+      "inceptionDate": "2016-09-01",
       "monthlyPrices": [
-        {
-          "date": "2016-08-01",
-          "close": 57.46
-        },
         {
           "date": "2016-09-01",
           "close": 57.6
@@ -8274,8 +8274,12 @@
           "close": 464.72
         },
         {
-          "date": "2026-07-31",
-          "close": 464.72
+          "date": "2026-08-01",
+          "close": 499.99
+        },
+        {
+          "date": "2026-08-07",
+          "close": 499.99
         }
       ]
     },
@@ -8284,12 +8288,8 @@
       "ticker": "AMZN",
       "category": "Individual Stock",
       "color": "#d97706",
-      "inceptionDate": "2016-08-01",
+      "inceptionDate": "2016-09-01",
       "monthlyPrices": [
-        {
-          "date": "2016-08-01",
-          "close": 38.46
-        },
         {
           "date": "2016-09-01",
           "close": 41.87
@@ -8767,8 +8767,12 @@
           "close": 271.58
         },
         {
-          "date": "2026-07-31",
-          "close": 271.58
+          "date": "2026-08-01",
+          "close": 274.48
+        },
+        {
+          "date": "2026-08-07",
+          "close": 274.48
         }
       ]
     },
@@ -8777,12 +8781,8 @@
       "ticker": "GOOGL",
       "category": "Individual Stock",
       "color": "#dc2626",
-      "inceptionDate": "2016-08-01",
+      "inceptionDate": "2016-09-01",
       "monthlyPrices": [
-        {
-          "date": "2016-08-01",
-          "close": 39.49
-        },
         {
           "date": "2016-09-01",
           "close": 40.2
@@ -9260,8 +9260,12 @@
           "close": 356.13
         },
         {
-          "date": "2026-07-31",
-          "close": 356.13
+          "date": "2026-08-01",
+          "close": 354.3
+        },
+        {
+          "date": "2026-08-07",
+          "close": 354.3
         }
       ]
     },
@@ -9270,12 +9274,8 @@
       "ticker": "AVGO",
       "category": "Individual Stock",
       "color": "#7c3aed",
-      "inceptionDate": "2016-08-01",
+      "inceptionDate": "2016-09-01",
       "monthlyPrices": [
-        {
-          "date": "2016-08-01",
-          "close": 17.64
-        },
         {
           "date": "2016-09-01",
           "close": 17.25
@@ -9753,8 +9753,12 @@
           "close": 389.28
         },
         {
-          "date": "2026-07-31",
-          "close": 389.28
+          "date": "2026-08-01",
+          "close": 427.76
+        },
+        {
+          "date": "2026-08-07",
+          "close": 427.76
         }
       ]
     }
